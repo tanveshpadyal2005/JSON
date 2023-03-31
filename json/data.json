@@ -1,0 +1,10 @@
+{
+
+  "pet":"Elephnat",
+  "subject":[
+         {"scince":"chemistry"},
+         {"Commerce":"Maths"},
+         {"Art":"Psychology"}
+
+  ]
+}

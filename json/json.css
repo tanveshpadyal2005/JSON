@@ -1,0 +1,25 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: slategray;
+    display: flex;justify-content: center;align-items: center;
+    flex-direction: column;padding-top: 5rem;
+}
+button{
+    width: 15rem;height: 3rem;border: 1px solid rgb(43, 43, 43);background-color: transparent;
+    font-weight: 600;color: white;border-radius: 5px;margin-right:10px ;
+}
+button:hover{
+    background-color: white;color: black;border: none;
+}
+#cheak{
+    color: rgb(177, 243, 255);font-weight: 600;font-size: 18px;
+    text-transform: uppercase;margin-top: 1rem;margin-bottom: 1rem;
+}
+.all{
+    background-color: rgba(0, 0, 0, 0.263);
+    padding: 2rem;backdrop-filter: blur(10px);
+}
